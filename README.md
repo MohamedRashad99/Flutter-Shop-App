@@ -1,4 +1,4 @@
-# shopapparabic
+# shop app
 
 A new Flutter application.
 
