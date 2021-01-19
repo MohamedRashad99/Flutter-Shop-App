@@ -1,6 +1,7 @@
 # shop app
 
 A new Flutter application.
+You can watch it on my YouTube channel
 https://youtu.be/wUX-cAbp9Rc
 ## Getting Started
 
