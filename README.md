@@ -1,7 +1,7 @@
 # shop app
 
 A new Flutter application.
-
+https://youtu.be/wUX-cAbp9Rc
 ## Getting Started
 
 This project is a starting point for a Flutter application.
