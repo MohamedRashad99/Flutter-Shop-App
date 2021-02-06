@@ -44,7 +44,7 @@ class Products with ChangeNotifier {
     // Product(
     //   id: 'p5',
     //   title: 'Blazer',
-    //   description: 'A nice pair of Blazer.',
+    //   description: 'A nice part of Blazer.',
     //   price: 180.0,
     //   imageUrl:
     //   'https://s0.bukalapak.com/img/530566155/w-1000/jaket_jas_blazzer_pria_hitam_pocket.jpg',
@@ -52,7 +52,7 @@ class Products with ChangeNotifier {
     // Product(
     //   id: 'p6',
     //   title: 'Dress',
-    //   description: 'A nice pair of Dress.',
+    //   description: 'A nice part of Dress.',
     //   price: 140.0,
     //   imageUrl:
     //   'https://tse2.mm.bing.net/th?id=OIP.a0F0IsOCuvtmKj1Thmrd2AHaMV&pid=Api&P=0&w=300&h=300',
